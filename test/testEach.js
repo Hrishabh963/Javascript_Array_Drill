@@ -1,6 +1,6 @@
 const each = require('../each');
 
-const items = [1, 2, 3, 4, 5];
+const items = [1, 2, 3, 4, 5, 5];
 
 //Callback function to pass in each
 function cb(item, index) {
